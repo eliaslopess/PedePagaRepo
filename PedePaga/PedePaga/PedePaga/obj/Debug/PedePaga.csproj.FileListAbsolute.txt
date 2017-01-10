@@ -1,0 +1,60 @@
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.pdb
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.csprojResolveAssemblyReference.cache
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.MainPage.xaml.g.cs
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.App.xaml.g.cs
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.dll
+c:\users\elias lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.pdb
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.config
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.pdb
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Extensions.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Primitives.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Core.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.xml
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Extensions.xml
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Primitives.xml
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Core.xml
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Repositorio\PedePaga\PedePaga\PedePaga\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Repositorio\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.csproj.App.config
+C:\Repositorio\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.csprojResolveAssemblyReference.cache
+C:\Repositorio\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.MainPage.xaml.g.cs
+C:\Repositorio\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.App.xaml.g.cs
+C:\Repositorio\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.dll
+C:\Repositorio\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.pdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.config
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.CodeAnalysisLog.xml
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.lastcodeanalysissucceeded
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.dll
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.xml
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.csproj.App.config
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\obj\Debug\PedePaga.dll.mdb
+C:\Users\Elias Lopes\documents\visual studio 2015\Projects\PedePaga\PedePaga\PedePaga\bin\Debug\PedePaga.dll.mdb
